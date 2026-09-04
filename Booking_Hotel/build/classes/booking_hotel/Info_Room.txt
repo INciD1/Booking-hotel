@@ -1,0 +1,5 @@
+101;  Standard;  3000;  
+102;  Deluxe;  4500;  
+103;  premium;  6000;  
+104;  Superior;  7500;  
+105;  Super Earth;  9500;  

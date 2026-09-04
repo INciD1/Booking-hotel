@@ -1,0 +1,4 @@
+Breakfast,150
+Lunch,200
+Dinner,300
+Room Cleaning,500
